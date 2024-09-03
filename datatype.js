@@ -14,3 +14,4 @@ let stringValue= 25
 let stringValPass = String (stringValue)
 console.log (stringValPass)
 console.log (typeof stringValPass)
+let hisn
