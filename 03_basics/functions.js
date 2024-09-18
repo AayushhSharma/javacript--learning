@@ -12,4 +12,4 @@ function isLoggedIn (username){
     return `${username} just logged in`
     }
 }
-console.log (isLoggedIn())
+console.log (isLoggedIn("AAyush"))
