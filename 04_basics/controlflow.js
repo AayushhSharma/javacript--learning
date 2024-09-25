@@ -1,7 +1,11 @@
 
 const isUserLoggedIn  = true
+const loggedInFromgoogle = true
+const loggedInFromemail = true
 
-
-if (2=="2") {
-console.log ("executed")
-}
+// if (loggedInFromemail|| loggedInFromgoogle ) {
+// console.log ("Welcome User")
+// }
+if (loggedInFromemail && loggedInFromgoogle ) {
+    console.log ("Welcome User")
+    }
